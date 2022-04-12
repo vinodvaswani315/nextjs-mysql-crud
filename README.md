@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vinod Vaswani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+# Next.js Mysql CRUD App
+
+This projet is a simple CRUD operation app created with next.js and Mysql.
+
+
+## Installation
+Setup Mysql Database
+```bash
+  1. Open phpmyadmin and create a database with name "next"
+  2. Import next.sql from project folder into the database created "next"
+  3. change your username and password under lib/db.js
+```
+Install my-project with npm
+```bash
+  cd nextjs-blog
+  npm run dev
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodvaswani315&label=Profile%20views&color=0e75b6&style=flat" alt="vinodvaswani315" /> </p>
 
 <h3 align="left">Connect with me:</h3>
