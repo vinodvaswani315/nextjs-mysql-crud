@@ -16,7 +16,7 @@ Setup Mysql Database
 ```
 Install my-project with npm
 ```bash
-  cd nextjs-blog
+  cd nextjs-mysql-crud-master
   npm run dev
 ```
 
